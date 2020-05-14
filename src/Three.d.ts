@@ -173,4 +173,7 @@ export * from './renderers/webgl/WebGLUniforms';
 export * from './constants';
 export * from './Three.Legacy';
 
+export * from './loaders/GLTFLoader';
+export * from './loaders/DRACOLoader';
+
 export as namespace THREE;
